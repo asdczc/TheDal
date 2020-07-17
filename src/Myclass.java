@@ -12,9 +12,4 @@ public class Myclass {
 		System.out.println("돈까스");
 		
 	}
-	public void home() {
-		System.out.println("집가고싶다.......^.^");
-		Scanner sc = new Scanner(System.in);
-	}
-
 }
